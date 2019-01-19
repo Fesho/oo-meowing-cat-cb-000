@@ -7,5 +7,6 @@ puts "meow!"
 end
 end
 
-Maru = Cat.new
+maru = Cat.new
+maru.name = "Maru"
 
