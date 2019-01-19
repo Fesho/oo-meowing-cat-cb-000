@@ -7,5 +7,5 @@ puts "meow!"
 end
 end
 
-Maru= Cat.new
+Maru = Cat.new
 
